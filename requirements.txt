@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+lightgbm
+shap
+scipy
+streamlit
+plotly
+fastf1
+requests
+pytest
